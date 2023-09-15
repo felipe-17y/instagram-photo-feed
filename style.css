@@ -1,12 +1,12 @@
 body{
-    background-color: rgb(238, 231, 231);
+    background-color: rgb(60, 131, 126);
     margin: 0;
 }
 div{
     box-sizing: border-box;
 }
 header{
-    background-color: white;
+    background-color: rgb(232, 175, 186);
     padding: 10px;
     
 }
@@ -14,7 +14,7 @@ header h1{
     margin: 0;
 }
 div.post{
-    background: white;
+    background: rgb(246, 237, 219);
     margin-top: 10px;
 
 }
